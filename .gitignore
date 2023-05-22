@@ -19,3 +19,16 @@
 
 # Go workspace file
 go.work
+*~
+*.swp
+.project
+.idea
+*__pycache__*
+# *.pyc
+*.log
+*.exe
+*.bak*
+*.out
+
+#miniprogram_npm/
+#node_modules/
